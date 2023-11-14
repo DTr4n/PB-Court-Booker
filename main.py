@@ -113,8 +113,7 @@ def run(desired_slot_text: list) -> None:
 
 
 if __name__ == "__main__":
-    # desired_slot_text = {"7 - 8 PM" : 0, "8 - 9 PM" : 0}
-    desired_slot_text = ["7 - 8 AM", "11 AM - 12 PM"]
+    desired_slot_text = ["7 - 8 PM", "8 - 9 PM"]
 
     # 7 - 8 AM
     # 8 - 9 AM
